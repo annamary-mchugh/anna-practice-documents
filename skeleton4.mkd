@@ -9,3 +9,5 @@ I need more practice with git diff. I am also still completely in the dark about
 So now I have created a Github repository. There is no difference between the origin master and the remote master.
 
 Whew!
+
+Now I want to add some more text to the master branch
