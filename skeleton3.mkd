@@ -5,3 +5,7 @@ There really isn't much more to say, other than that this is the basic skeleton 
 I am going to add some text to this markdown editor. We will see what happens.
 
 I need more practice with git diff. I am also still completely in the dark about files that are in the pdf format. I did not understand the info I was provided on that subject.
+
+So now I have created a Github repository. There is no difference between the origin master and the remote master.
+
+Whew!
