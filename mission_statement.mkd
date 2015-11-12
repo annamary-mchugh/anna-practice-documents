@@ -10,6 +10,5 @@ Live previewed file. This is my mission statement.
 - How on earth to use git with PDF files
 - Keeping Phil out of my hair
 
-###I need a new heading.
-
+###I am going nuts with this; it's difficult.
 I need to add some text here that doesn't have anything to do with PDF documents.
