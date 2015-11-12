@@ -3,3 +3,5 @@ Here is another skeletal document.
 There really isn't much more to say, other than that this is the basic skeleton of a new document.
 
 I am going to add some text to this markdown editor. We will see what happens.
+
+I need more practice with git diff. I am also still completely in the dark about files that are in the pdf format. I did not understand the info I was provided on that subject.
