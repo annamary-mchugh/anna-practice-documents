@@ -2,6 +2,5 @@ Here is a file I will track using git. It's  not a terribly large file, but it's
 
 And a new paragraph.
 
-It's not that hard to use git but I need to get over the hump with it.
 
-#Now I am going to add a heading to this file
+
