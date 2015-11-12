@@ -2,5 +2,7 @@ Here is a file I will track using git. It's  not a terribly large file, but it's
 
 And a new paragraph.
 
+git is getting a little easier, but I am still not sure how to handle all the PDF stuff. I will get further information about it when I can, but for the time being I just want to get better at using the basic commands.
+
 
 
