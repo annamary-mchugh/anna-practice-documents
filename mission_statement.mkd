@@ -1,0 +1,11 @@
+Live previewed file. This is my mission statement.
+#Mission statement
+1. Don't get bogged down too far
+2. Well, how to make lists, both ordered and unordered.
+3. Other things
+
+##Secondary Mission
+- How to make files
+- How to track files
+- How on earth to use git with PDF files
+- Keeping Phil out of my hair
