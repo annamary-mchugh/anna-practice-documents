@@ -1,0 +1,1 @@
+Here is some new stuff that should be on the new_changes branch of my repository. I am working on merging files, renaming files, and so forth. I still need to understand more about how head works, and how this all relates to the actual work I will be doing, but I have made a little bit of progress.
