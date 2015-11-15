@@ -11,3 +11,5 @@ So now I have created a Github repository. There is no difference between the or
 Whew!
 
 Now I want to add some more text to the master branch
+
+Now I want to practice branching and merging some more. Not all that sure I can do a lot more today, but mostly I just want to take a look at the basic commands some more.
