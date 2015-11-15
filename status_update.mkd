@@ -1,0 +1,7 @@
+New document, 11/15/15. There is still some time to get familiar with this software, but I am not 100% sure how best to approach everything.
+
+It's not terribly clear to me that this will be a good tool to use at Red Hat, but we shall work on it a bit and find out what we can see. I have gotten a little more familiar with it, but there's still a lot to be done before I can make a valid assessment.
+
+Git is a little tricky, because it requires command line work, and I am not certain that the team I am going to work with is going to be all that interested in using that command line. They might have an easier time with a Git GUI, but yeah, this totally remains to be seen, especially because there could be an issue tracking changes to PDF files; we can put a wrapper on Git so it sees textual changes to files, but that's not absolutely clear that it will work well.
+
+So yeah, I am still a bit in the dark!
