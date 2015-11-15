@@ -16,3 +16,5 @@ Now I want to practice branching and merging some more. Not all that sure I can 
 
 So this is what I am going to do: add some text, make some slight alterations, and merge them back into master. I will also create a merge conflict on master, then fix it.
 
+Now it's time to create a conflict. Here we go!
+
