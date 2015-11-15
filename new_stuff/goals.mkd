@@ -3,3 +3,6 @@
 We have a few things that still need to be sorted out. To start with, I have to use a repo on GitHub so I can push and pull, clone and fetch from repositories. This is only the beginning, and I still have a lot to learn.
 
 I still need more practice with Git, so it's time to do a little more with it.
+
+So I would like to edit the remote repo here on Github and then pull my changes into my local working directory. We shall see how this goes.
+
